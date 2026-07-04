@@ -18,14 +18,14 @@ The notebook is the historical Deepnote work from June 2023. In Deepnote, the la
 
 ```text
 .
-├── Alzheimer Original Model.ipynb
+├── model.ipynb
 ├── README.md
 ├── requirements.txt
 └── src/
     └── train_alzheimers.py
 ```
 
-- `Alzheimer Original Model.ipynb`: main Deepnote notebook, restored from the later working project version.
+- `model.ipynb`: main Deepnote notebook, restored from the later working project version.
 - `src/train_alzheimers.py`: reusable training script for the CNN and MobileNetV2 workflows.
 - `requirements.txt`: Python dependencies needed to run the repaired script.
 
