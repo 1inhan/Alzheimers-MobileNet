@@ -1,0 +1,16 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# The image dataset is large and should be downloaded or restored separately.
+dataset/
+archive*.zip
+*.zip
+
+# Training outputs
+models/
+outputs/
+*.h5
+*.keras
+*.pkl
